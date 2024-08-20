@@ -1,5 +1,11 @@
 metadata_version: 1
 name: SWDB 2024 Anatomy
-description: Basic structure of a capsule to be customized as needed.
+description: Tutorials for working with EM and Light Sheet data
 authors:
-- name: AIND
+- name: Anna Grim
+- name: Mathew Summers
+- name: Matt Mallory
+- name: Sven Dorkenwald
+- name: Bethanny Danskin
+- name: Forrest Collman
+- name: Sharmishtaa Seshamani
